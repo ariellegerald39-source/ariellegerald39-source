@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Arielle 👋
 
-<!--
-**ariellegerald39-source/ariellegerald39-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Engineering Student at North Carolina A&T State University
 
-Here are some ideas to get you started:
+## 🛠 Languages & Tools
+- **Languages:** C/C++, Java, Python, MATLAB
+- **Hardware & Digital Logic:** Raspberry Pi Pico, Digital Logic Design, Wokwi Simulations
+- **Tools & Environments:** Git, VS Code, MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **[MP3 Player Application](https://github.com/ariellegerald39-source/comp167-lab2-mp3-player):** Java applications covering OOP principles, array processing, and GUI development.
+- **[COMP 163 Projects](https://github.com/ariellegerald39-source/COMP-163---Project-3-Quest-Chronicles):** Python-based software design and logic projects.
+- **[Digital Logic & Microcontroller Projects](#):** Circuit simulations, gate verification, and Raspberry Pi Pico implementation
