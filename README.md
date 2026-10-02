@@ -13,5 +13,5 @@
 - **[Digital Logic & Microcontroller Projects](#):** Circuit simulations, gate verification, and Raspberry Pi Pico implementation
 
 ## 📊 GitHub Stats
-![Arielle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariellegerald39-source&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellegerald39-source&layout=compact&theme=radial)
+![Arielle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariellegerald39-source&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellegerald39-source&layout=compact&theme=dark&cache_seconds=1800)
