@@ -3,9 +3,12 @@
 - 🎓 Computer Engineering Student at North Carolina A&T State University
 
 ## 🛠 Languages & Tools
-- **Languages:** C/C++, Java, Python, MATLAB
-- **Hardware & Digital Logic:** Raspberry Pi Pico, Digital Logic Design, Wokwi Simulations
-- **Tools & Environments:** Git, VS Code, MATLAB
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=works&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Featured Projects
 - **[MP3 Player Application](https://github.com/ariellegerald39-source/comp167-lab2-mp3-player):** Java applications covering OOP principles, array processing, and GUI development.
