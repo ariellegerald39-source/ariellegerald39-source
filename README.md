@@ -13,5 +13,5 @@
 
 ## 📌 Featured Projects
 - **[MP3 Player Application](https://github.com/ariellegerald39-source/comp167-lab2-mp3-player):** JavaFX GUI MP3 player with playlist sorting and custom file management
-- **[COMP 163 Project](https://github.com/ariellegerald39-source/COMP-163---Project-3-Quest-Chronicles):** Python-based modular RPG adventure game with custom exception handling and game state saving.
+- **[Quest Chronicles](https://github.com/ariellegerald39-source/COMP-163---Project-3-Quest-Chronicles):** Python-based modular RPG adventure game with custom exception handling and game state saving.
 
